@@ -1,0 +1,29 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Montserrat;
+}
+
+
+article {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 100px;
+  background: #red;
+  h1{
+
+  }
+}
+
+}
+article:nth-of-type(1n){
+    background: #6696E2;
+}
+pricing{
+    background: #6696E2;
+}
